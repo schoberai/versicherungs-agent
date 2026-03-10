@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "created_at": "2026-03-10T13:52:27.750Z",
+    "name": "DONAU Privatschutz Wohnen Eigenheimversicherung",
+    "type": "Eigenheimversicherung",
+    "monthly_cost": 64.01,
+    "expiry_date": "2034-09-01",
+    "provider": "DONAU Versicherung AG Vienna Insurance Group"
+  },
+  {
+    "id": 2,
+    "created_at": "2026-03-10T13:53:15.783Z",
+    "name": "Dialog RISK-vario® Risikolebensversicherung",
+    "type": "Risikolebensversicherung",
+    "monthly_cost": 0,
+    "expiry_date": "2038-09-30",
+    "provider": "Dialog Lebensversicherungs-AG"
+  },
+  {
+    "id": 3,
+    "created_at": "2026-03-10T13:53:51.862Z",
+    "name": "Unfallvorsorge Familien-Unfallversicherung",
+    "type": "Unfallversicherung",
+    "monthly_cost": 41.55,
+    "expiry_date": "2034-01-01",
+    "provider": "Wiener Städtische"
+  },
+  {
+    "id": 5,
+    "created_at": "2026-03-10T13:54:43.953Z",
+    "name": "Mein Kfz Comfort",
+    "type": "KFZ-Haftpflicht",
+    "monthly_cost": 105.91,
+    "expiry_date": "2027-02-01",
+    "provider": "Allianz Elementar"
+  }
+]
